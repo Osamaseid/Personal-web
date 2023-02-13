@@ -1,0 +1,36 @@
+img{
+    background-color: rgb(193, 98, 98);
+      }         
+body{
+       background-color:rgb(9, 95, 105) ;
+   
+    }
+
+h1{
+
+    color: #66bfbf;
+}    
+h3{
+    color: #66bfbf;
+}
+hr{ 
+    border-color: gray;
+    border-style: dotted; 
+    border-bottom: 15cm;
+    border-width: 5.5px;
+    width: 5%;
+
+}      
+
+p{
+    color: cornsilk;
+}
+li{
+    color: cornsilk;
+}
+lable{
+    color: cornsilk;
+}
+p{
+    color:rgb(200, 187, 206)
+}
